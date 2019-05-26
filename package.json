@@ -38,6 +38,7 @@
     "onchange": "^5.2.0"
   },
   "dependencies": {
+    "normalize.css": "^8.0.1",
     "package.json": "^2.0.1",
     "postcss-cli-simple": "^3.0.0",
     "rimraf": "^2.6.3",
